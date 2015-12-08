@@ -1,0 +1,5 @@
+<resources>
+    <!-- Example customization of dimensions originally defined in res/values/dimens.xml
+         (such as screen margins) for screens with more than xxhdpi of available width. -->
+    <dimen name="progressbar_width_height">50dp</dimen>
+</resources>
